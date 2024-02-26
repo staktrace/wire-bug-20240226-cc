@@ -5,6 +5,7 @@ Steps to reproduce
 2. Run `bin/gradle jar`
 
 Expected: build passes
+
 Actual: build fails with error:
 
 ```

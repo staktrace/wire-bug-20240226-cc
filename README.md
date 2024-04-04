@@ -2,7 +2,7 @@ Steps to reproduce
 ==================
 
 1. Clone this repo
-2. Run `bin/gradle jar`
+2. Run `bin/gradle clean generateMainProtos`
 
 Expected: build passes
 
